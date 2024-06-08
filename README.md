@@ -23,7 +23,7 @@
 
 2. Scroll down to find the "schemes" field, which accepts an array of color scheme objects. Finally paste the `neofusion.json` [content](https://github.com/diegoulloao/neofusion.winterm/blob/main/neofusion.json) inside the array
 
-3. Go back to the Terminal Settings > Color Scheme > and choose "Neofusion". Save
+3. Go back to the Terminal Settings > Color Scheme > and choose [Neofusion](#!). Save
 
 
 
