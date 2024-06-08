@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Neofusion theme for <a href="https://apps.microsoft.com/detail/9n0dx20hk701" target="_blank">Windows Terminal</a> blending lava red and ice blue colors
+    Neofusion theme for <a href="https://apps.microsoft.com/detail/9n0dx20hk701" target="_blank">Windows Terminal</a> blending lava red and ice blue colors 🔥
 </p>
 
 <p align="center">
