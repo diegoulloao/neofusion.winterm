@@ -19,11 +19,36 @@
 
 # Installation 📦
 
-1. Open Settings in Windows Terminal and press the “Open JSON file” button at the bottom left corner. It will open `settings.json`
+1. Open settings and press the “Open JSON file” button at the bottom-left corner to open `settings.json`
+2. Scroll down to the "schemes" field and paste this inside the array:
 
-2. Scroll down to find the "schemes" field, which accepts an array of color scheme objects. Finally paste the `neofusion.json` [content](https://github.com/diegoulloao/neofusion.winterm/blob/main/neofusion.json) inside the array
+```json
+{
+  "name": "Neofusion",
+  "cursorColor": "#e0d9c7",
+  "selectionBackground": "#f2e5c8",
+  "background": "#070f1c",
+  "foreground": "#e0d9c7",
+  "black": "#070f1c",
+  "blue": "#2f516c",
+  "cyan": "#86dbf5",
+  "green": "#ea6847",
+  "purple": "#d943a8",
+  "red": "#ea6847",
+  "white": "#e0d9c7",
+  "yellow": "#5db2f8",
+  "brightBlack": "#2f516c",
+  "brightBlue": "#5db2f8",
+  "brightCyan": "#ea6847",
+  "brightGreen": "#616d33",
+  "brightPurple": "#d943a8",
+  "brightRed": "#d943a8",
+  "brightWhite": "#e0d9c7",
+  "brightYellow": "#86dbf5"
+}
+```
 
-3. Go back to the Terminal Settings > Color Scheme > and choose [Neofusion](#!). Save
+3. Go to Settings > Color Scheme > choose [Neofusion](#!). Save
 
 
 
