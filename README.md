@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Windows-Terminal-black.svg?style=for-the-badge&logo=zsh&logoColor=white" alt="zsh-badge" />
+    <img src="https://img.shields.io/badge/Windows-Terminal-black.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="zsh-badge" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 # Installation 📦
 
 1. Open settings and press the “Open JSON file” button at the bottom-left corner to open `settings.json`
-2. Scroll down to the "schemes" field and paste this inside the array:
+2. Scroll down to the `schemes` field and paste this inside the array:
 
 ```json
 {
@@ -48,7 +48,7 @@
 }
 ```
 
-3. Go to Settings > Color Scheme > choose [Neofusion](#!). Save
+3. Go to Settings > Color Scheme > choose [Neofusion](#!)
 
 
 
