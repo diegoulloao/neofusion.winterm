@@ -54,13 +54,16 @@
 
 3. Go to Settings > Color Scheme > choose [Neofusion](#!)
 
-# Getting the right diff colors ✅
+# Getting the right git colors ✅
 
 Add the following lines to your `C:\Users\[username]\.gitconfig` file:
 
 ```bash
 [color "diff"]
   new = cyan
+[color "status"]
+  added = yellow
+  changed = red
 ```
 
 # Ports ⭐
